@@ -47,8 +47,8 @@ export default function Contact () {
                 <div data-aos="fade-in" className="contactdiv">
                         <h1 className="contacttitle">Contact Me</h1>
                         <div className="contactinfo">
-                        <p classname="description">I am so cool, hit me up and
-                        make my emails stacked full of stuff!
+                        <p classname="description">
+                          
                         </p>
                         <div className="inputStuff">
                         <form ref={formRef} onSubmit={handleSubmit}>
